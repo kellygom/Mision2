@@ -1,5 +1,5 @@
 import { useState } from "react";
-import "./Modeloer.css";
+import "./modeloer.css";
 
 export default function Modeloer() {
 const [imagenZoom, setImagenZoom] = useState(null);
