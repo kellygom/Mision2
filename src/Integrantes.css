@@ -1,0 +1,24 @@
+.integrantes-container {
+  padding: 20px;
+  max-width: 800px;
+  margin: auto;
+  text-align: center;
+}
+
+.integrantes-container h2 {
+  font-size: 28px;
+  margin-bottom: 15px;
+}
+
+.integrantes-container ul {
+  list-style: none;
+  padding: 0;
+}
+
+.integrantes-container li {
+  background: #f0f0f0;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 18px;
+}
